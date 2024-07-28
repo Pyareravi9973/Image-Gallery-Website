@@ -1,1 +1,1 @@
-I developed a Image project by using html and css
+I developed a Image Gallery project by using html and css
